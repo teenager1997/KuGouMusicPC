@@ -7,4 +7,4 @@
 4、文本框提示文字
 5、返回顶部
 
-在线demo: https://github.com/teenager1997/KuGouMusicPC/index.html
+在线demo: https://teenager1997.github.io/KuGouMusicPC/index.html
